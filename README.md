@@ -15,5 +15,5 @@
 
 - 🌱 Currently exploring the realms of software development, machine learning, and data science.
 - 💡 Passionate about innovating with code and creating meaningful tech solutions.
-- 🌐 Feel free to check out my website: [dillansdev.com](https://www.dillansdev.com).
+- 🌐 Feel free to check out my website: [dillansdev.com](https://dillansdev.netlify.app/).
 - 📬 Reach me at dillansdev@gmail.com.
